@@ -1,5 +1,7 @@
 # Win32 library
 
+[![Build status](https://ci.appveyor.com/api/projects/status/3hqlxj5uyc4dfgac/branch/master?svg=true)](https://ci.appveyor.com/project/m4x1m1l14n/win32/branch/master)
+
 C++ wrappers to simplify native Windows API calls
 
 ## Table of contents
