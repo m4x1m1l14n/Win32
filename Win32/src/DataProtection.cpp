@@ -1,6 +1,7 @@
 #include <win32/DataProtection.hpp>
 
 #include <assert.h>
+#include <system_error>
 
 namespace Win32 
 {

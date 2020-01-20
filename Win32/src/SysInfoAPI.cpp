@@ -1,6 +1,7 @@
 #include <win32/SysInfoAPI.hpp>
 
 #include <memory>
+#include <system_error>
 
 namespace Win32
 {
